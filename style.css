@@ -1,0 +1,19 @@
+.user-info-container {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    align-items: start;
+    justify-content: space-between;
+}
+
+.user-info-container .user-profile img {
+    width: 150px;
+    height: 150px;
+}
+
+section.user-profile-section .card {
+    height: 100%;
+    background: transparent;
+    border: 0;
+    padding: 0;
+}
